@@ -1,0 +1,14 @@
+.target{
+  background-color: red;
+  color: white;
+  display: flex;
+justify-self:center;
+align-items: center;
+width: 100px;
+height: 100px;
+
+
+
+
+
+}
